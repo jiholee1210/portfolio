@@ -11,21 +11,21 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/14e91af3-b3b8-4fde-a6ec-62f278a6917a" style="width:200px; height:200px; object-fit:cover;"><br>
-      **Growing Anchovy**
+      <b>Growing Anchovy</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/9b4bac15-a6ab-4134-bb57-c1b341ed6440" style="width:200px; height:200px; object-fit:cover;"><br>
-      **Human Survive**
+      <b>Human Survive</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/7c1fcb34-b9e3-4251-aa30-c487a3cf470d" style="width:200px; height:200px; object-fit:cover;"><br>
-      **Fisher Man**
+      <b>Fisher Man</b>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/bee9a055-b1ca-4b53-9d89-83fcb8941e79" style="width:200px; height:200px; object-fit:cover;"><br>
-      **Reforge**
+      <b>Reforge</b>
     </td>
     <td align="center">
     </td>
