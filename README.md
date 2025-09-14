@@ -9,19 +9,19 @@
 ## 미리보기
 <div align="center" style="display:flex; justify-content:center; gap:20px;">
   <div style="width:calc(25%); text-align:center;">
-    <img src="https://github.com/user-attachments/assets/14e91af3-b3b8-4fde-a6ec-62f278a6917a" style="width:100%; height:200px; object-fit:cover;"><br>
+    <img src="https://github.com/user-attachments/assets/14e91af3-b3b8-4fde-a6ec-62f278a6917a" style="width:200px; height:200px; object-fit:cover;"><br>
     <b>Growing Anchovy</b>
   </div>
   <div style="width:calc(25%); text-align:center;">
-    <img src="https://github.com/user-attachments/assets/9b4bac15-a6ab-4134-bb57-c1b341ed6440" style="width:100%; height:200px; object-fit:cover;"><br>
+    <img src="https://github.com/user-attachments/assets/9b4bac15-a6ab-4134-bb57-c1b341ed6440" style="width:200px; height:200px; object-fit:cover;"><br>
     <b>Human Survive</b>
   </div>
   <div style="width:calc(25%); text-align:center;">
-    <img src="https://github.com/user-attachments/assets/7c1fcb34-b9e3-4251-aa30-c487a3cf470d" style="width:100%; height:200px; object-fit:cover;"><br>
+    <img src="https://github.com/user-attachments/assets/7c1fcb34-b9e3-4251-aa30-c487a3cf470d" style="width:200px; height:200px; object-fit:cover;"><br>
     <b>Fisher Man</b>
   </div>
   <div style="width:calc(25%); text-align:center;">
-    <img src="https://github.com/user-attachments/assets/bee9a055-b1ca-4b53-9d89-83fcb8941e79" style="width:100%; height:200px; object-fit:cover;"><br>
+    <img src="https://github.com/user-attachments/assets/bee9a055-b1ca-4b53-9d89-83fcb8941e79" style="width:200px; height:200px; object-fit:cover;"><br>
     <b>Reforge</b>
   </div>
 </div>
