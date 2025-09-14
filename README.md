@@ -7,29 +7,29 @@
 * 많은 사람들이 플레이해보고 정말 재밌었다고 말할 수 있는 게임을 만들어 보는 것이 목표입니다.
   
 ## 미리보기
-<table align="center" border="0" style="border-collapse:collapse; border:none;">
+<table align="center">
   <tr>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://github.com/user-attachments/assets/14e91af3-b3b8-4fde-a6ec-62f278a6917a" style="width:200px; height:200px; object-fit:cover;"><br>
       <b>Growing Anchovy</b>
     </td>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://github.com/user-attachments/assets/9b4bac15-a6ab-4134-bb57-c1b341ed6440" style="width:200px; height:200px; object-fit:cover;"><br>
       <b>Human Survive</b>
     </td>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://github.com/user-attachments/assets/7c1fcb34-b9e3-4251-aa30-c487a3cf470d" style="width:200px; height:200px; object-fit:cover;"><br>
       <b>Fisher Man</b>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="border:none;">
       <img src="https://github.com/user-attachments/assets/bee9a055-b1ca-4b53-9d89-83fcb8941e79" style="width:200px; height:200px; object-fit:cover;"><br>
       <b>Reforge</b>
     </td>
-    <td align="center">
+    <td align="center" style="border:none;">
     </td>
-    <td align="center">
+    <td align="center" style="border:none;">
     </td>
   </tr>
 </table>
