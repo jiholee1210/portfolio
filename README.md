@@ -10,26 +10,24 @@
 <table>
   <tr>
     <td align="center">
-      <img src="이미지경로1" width="150px"><br>
+      <img src="https://github.com/user-attachments/assets/14e91af3-b3b8-4fde-a6ec-62f278a6917a" width="150px"><br>
       설명
     </td>
     <td align="center">
-      <img src="이미지경로2" width="150px"><br>
+      <img src="https://github.com/user-attachments/assets/9b4bac15-a6ab-4134-bb57-c1b341ed6440" width="150px"><br>
       설명
     </td>
     <td align="center">
-      <img src="이미지경로3" width="150px"><br>
+      <img src="https://github.com/user-attachments/assets/7c1fcb34-b9e3-4251-aa30-c487a3cf470d" width="150px"><br>
       설명
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="이미지경로4" width="150px"><br>
+      <img src="https://github.com/user-attachments/assets/bee9a055-b1ca-4b53-9d89-83fcb8941e79" width="150px"><br>
       설명
     </td>
     <td align="center">
-      <img src="이미지경로5" width="150px"><br>
-      설명
     </td>
     <td align="center">
     </td>
