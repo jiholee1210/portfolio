@@ -7,7 +7,7 @@
 * 많은 사람들이 플레이해보고 정말 재밌었다고 말할 수 있는 게임을 만들어 보는 것이 목표입니다.
   
 ## 미리보기
-<table align="center" border="0">
+<table align="center" border="0" style="border-collapse:collapse; border:none;">
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/14e91af3-b3b8-4fde-a6ec-62f278a6917a" style="width:200px; height:200px; object-fit:cover;"><br>
