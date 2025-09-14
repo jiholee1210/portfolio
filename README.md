@@ -1,1 +1,39 @@
-# portfolio
+# 이지호 포트폴리오
+총 5개 프로젝트 닷징팍스, 피셔맨, 리포지, 휴먼 서바이브, 멸치키우기
+
+## 소개
+* 게임 개발 경력이 길진 않지만 게임 개발에 있어서 진심입니다.
+* 플레이어들의 입장에서 재미를 느낄 수 있는 요소에 대해 항상 공부합니다.
+* 많은 사람들이 플레이해보고 정말 재밌었다고 말할 수 있는 게임을 만들어 보는 것이 목표입니다.
+  
+## 미리보기
+<table>
+  <tr>
+    <td align="center">
+      <img src="이미지경로1" width="150px"><br>
+      설명
+    </td>
+    <td align="center">
+      <img src="이미지경로2" width="150px"><br>
+      설명
+    </td>
+    <td align="center">
+      <img src="이미지경로3" width="150px"><br>
+      설명
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="이미지경로4" width="150px"><br>
+      설명
+    </td>
+    <td align="center">
+      <img src="이미지경로5" width="150px"><br>
+      설명
+    </td>
+    <td align="center">
+    </td>
+  </tr>
+</table>
+## 세부사항 및 코드 (문제점 및 해결) 사용 에셋, 사용 사운드 출처
+## 영상?
