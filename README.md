@@ -10,21 +10,21 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/14e91af3-b3b8-4fde-a6ec-62f278a6917a" width="200px" height="200px"><br>
+      <img src="https://github.com/user-attachments/assets/14e91af3-b3b8-4fde-a6ec-62f278a6917a" style="width:200px; height:200px; object-fit:cover;"><br>
       설명
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/9b4bac15-a6ab-4134-bb57-c1b341ed6440" width="200px" height="200px"><br>
+      <img src="https://github.com/user-attachments/assets/9b4bac15-a6ab-4134-bb57-c1b341ed6440" style="width:200px; height:200px; object-fit:cover;"><br>
       설명
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7c1fcb34-b9e3-4251-aa30-c487a3cf470d" width="200px" height="200px"><br>
+      <img src="https://github.com/user-attachments/assets/7c1fcb34-b9e3-4251-aa30-c487a3cf470d" style="width:200px; height:200px; object-fit:cover;"><br>
       설명
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/bee9a055-b1ca-4b53-9d89-83fcb8941e79" width="200px" height="200px"><br>
+      <img src="https://github.com/user-attachments/assets/bee9a055-b1ca-4b53-9d89-83fcb8941e79" style="width:200px; height:200px; object-fit:cover;"><br>
       설명
     </td>
     <td align="center">
