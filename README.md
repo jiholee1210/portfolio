@@ -34,8 +34,9 @@
 ## 세부사항 및 코드 (문제점 및 해결) 사용 에셋, 사용 사운드 출처
 
 ### Growing Anchovy (완료)
-[Image](https://github.com/user-attachments/assets/dad9ba94-feba-4e77-9d16-e3f5f6724883)
-[Image](https://github.com/user-attachments/assets/0ce63e19-1bc0-4bf9-9f79-80dc8b016f89)
+<img src="https://github.com/user-attachments/assets/dad9ba94-feba-4e77-9d16-e3f5f6724883">
+<img src="https://github.com/user-attachments/assets/0ce63e19-1bc0-4bf9-9f79-80dc8b016f89">
+
 > **2D 육성 시뮬레이션** <br>
 > **기간 2024.09 ~ 2024.11** <br>
 > **5인 프로젝트 중 게임 개발 파트 담당** (프론트엔드 2명, 백엔드 2명, 게임 개발 1명) <br>
