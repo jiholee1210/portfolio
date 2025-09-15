@@ -88,7 +88,7 @@
 * 3D 라이팅, 텍스처와 머터리얼에 대해 학습하고 최적화 과정을 진행해보면서 스스로에게 부족한 부분을 채워나갔습니다.
 * Localization 기능을 활용해 영어와 한국어 두 언어에 대응할 수 있도록 구현했습니다.
 
-[주소](https://github.com/jiholee1210/Fisher-Man)
+[주소](https://github.com/jiholee1210/Fisher-Man) <br>
 [출시](https://store.steampowered.com/app/3727150/Fisher_Man/)
 <hr>
 
