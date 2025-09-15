@@ -47,7 +47,7 @@
 * 한달 반정도 되는 시간동안 개발 자체에 흥미를 가지고 아트부터 프로그래밍까지 직접 진행해보면서 게임 개발의 전반적인 과정을 이해해보았습니다.
 * 유니티와 안드로이드 스튜디오 프로젝트를 합치는 과정에서 외부 자료가 생각보다 부족했기 때문에 많은 시간 고민하고 공부하면서 문제해결능력을 키울 수 있었습니다.
 
-[주소](https://github.com/Aquariurn/growing-anchovy-man-unity)
+프로젝트 주소 : https://github.com/Aquariurn/growing-anchovy-man-unity
 <hr>
 
 ### Human Survive (중단)
@@ -71,7 +71,7 @@
   <p>Dictionary 형태로 pool을 관리하면서 여러 오브젝트에 대응할 수 있도록 작성했습니다.</p>
 </details>
 
-[주소](https://github.com/jiholee1210/Human-Survive)
+프로젝트 주소 : https://github.com/jiholee1210/Human-Survive
 <hr>
 
 ### Fisher Man (출시)
@@ -88,8 +88,8 @@
 * 3D 라이팅, 텍스처와 머터리얼에 대해 학습하고 최적화 과정을 진행해보면서 스스로에게 부족한 부분을 채워나갔습니다.
 * Localization 기능을 활용해 영어와 한국어 두 언어에 대응할 수 있도록 구현했습니다.
 
-[주소](https://github.com/jiholee1210/Fisher-Man) <br>
-[출시](https://store.steampowered.com/app/3727150/Fisher_Man/)
+프로젝트 주소 : https://github.com/jiholee1210/Fisher-Man <br>
+출시 주소 : https://store.steampowered.com/app/3727150/Fisher_Man/
 <hr>
 
 ### Reforge (진행 중)
@@ -104,7 +104,7 @@
 * 이전 프로젝트들에서 기획의 중요함을 느끼고 기획단계부터 세세하게 진행 중인 프로젝트입니다.
 * 게임 장르가 방치형인만큼 게임 흐름에 집중하며 로직을 구성하기 위해 노력 중입니다.
 
-[주소](https://github.com/jiholee1210/ReForge)
+프로젝트 주소 : https://github.com/jiholee1210/ReForge
 <hr>
 
 ## Contact
