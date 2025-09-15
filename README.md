@@ -65,7 +65,7 @@
 
 <details>
   <summary>주요 코드 설명</summary>
-  <img>
+  <img width="20%" height="20%" alt="Image" src="https://github.com/user-attachments/assets/80f60b47-beb0-4ca2-9229-41c28d7be90f"/>
   <h3>오브젝트 풀링</h3>
   <p>오브젝트 풀링 매니저 클래스를 작성해서 무기 투사체 및 많은 수의 적 오브젝트의 추가 및 삭제를 메모리 측면에서 효율적으로 관리했습니다.</p>
   <p>Dictionary 형태로 pool을 관리하면서 여러 오브젝트에 대응할 수 있도록 작성했습니다.</p>
