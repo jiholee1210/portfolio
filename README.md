@@ -48,6 +48,7 @@
 * 유니티와 안드로이드 스튜디오 프로젝트를 합치는 과정에서 외부 자료가 생각보다 부족했기 때문에 많은 시간 고민하고 공부하면서 문제해결능력을 키울 수 있었습니다.
 
 [주소](https://github.com/Aquariurn/growing-anchovy-man-unity)
+<hr>
 
 ### Human Survive (중단)
 <img src="https://github.com/user-attachments/assets/7fced8df-dafd-498e-8a46-f29d3e73bd26" style="width:384px; height:216px; object-fit:cover;">
@@ -69,6 +70,7 @@
 </details>
 
 [주소](https://github.com/jiholee1210/Human-Survive)
+<hr>
 
 ### Fisher Man (출시)
 <img src="https://github.com/user-attachments/assets/6ff7fb21-8f35-4e69-b118-54b787a6e7cb" style="width:384px; height:216px; object-fit:cover;">
@@ -92,6 +94,7 @@
 
 [주소](https://github.com/jiholee1210/Fisher-Man)
 [출시](https://store.steampowered.com/app/3727150/Fisher_Man/)
+<hr>
 
 ### Reforge (진행 중)
 <img src="https://github.com/user-attachments/assets/9c13bd9d-02f4-49e4-b218-5a6f8667b9e2" style="width:384px; height:216px; object-fit:cover;">
