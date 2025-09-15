@@ -51,7 +51,6 @@
 
 ### Human Survive (중단)
 <img src="https://github.com/user-attachments/assets/7fced8df-dafd-498e-8a46-f29d3e73bd26" style="width:384px; height:216px; object-fit:cover;">
-<img src="https://github.com/user-attachments/assets/22d44459-d787-4386-b7f5-e0592e602e4b" style="width:384px; height:216px; object-fit:cover;">
 <img src="https://github.com/user-attachments/assets/16c650ba-af8a-4bfa-877d-236d488ad62a" style="width:384px; height:216px; object-fit:cover;">
 
 > **2D 액션 로그라이크** <br>
@@ -72,7 +71,9 @@
 [주소](https://github.com/jiholee1210/Human-Survive)
 
 ### Fisher Man (출시)
-이미지
+<img src="https://github.com/user-attachments/assets/6ff7fb21-8f35-4e69-b118-54b787a6e7cb" style="width:384px; height:216px; object-fit:cover;">
+<img src="https://github.com/user-attachments/assets/c8e9fde6-3ba2-49cf-aed4-61c0fe018c8c" style="width:384px; height:216px; object-fit:cover;">
+
 > **3D 낚시 시뮬레이션** <br>
 > **기간 2025.02 ~ 2025.04** <br>
 > **1인 프로젝트** <br>
@@ -93,9 +94,11 @@
 [출시](https://store.steampowered.com/app/3727150/Fisher_Man/)
 
 ### Reforge (진행 중)
-이미지
+<img src="https://github.com/user-attachments/assets/9c13bd9d-02f4-49e4-b218-5a6f8667b9e2" style="width:384px; height:216px; object-fit:cover;">
+<img src="https://github.com/user-attachments/assets/d137d412-932e-4555-962f-b4fee0b84346" style="width:384px; height:216px; object-fit:cover;">
+
 > **2D 방치형 / 클리커** <br>
-> **기간 2025.07 ~** <br>
+> **기간 2025.07 ~ 진행 중** <br>
 > **1인 프로젝트** <br>
 > **Unity, Aseprite** <br>
 
