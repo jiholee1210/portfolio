@@ -50,7 +50,10 @@
 [주소](https://github.com/Aquariurn/growing-anchovy-man-unity)
 
 ### Human Survive (중단)
-이미지
+<img src="https://github.com/user-attachments/assets/7fced8df-dafd-498e-8a46-f29d3e73bd26" style="width:384px; height:216px; object-fit:cover;">
+<img src="https://github.com/user-attachments/assets/22d44459-d787-4386-b7f5-e0592e602e4b" style="width:384px; height:216px; object-fit:cover;">
+<img src="https://github.com/user-attachments/assets/16c650ba-af8a-4bfa-877d-236d488ad62a" style="width:384px; height:216px; object-fit:cover;">
+
 > **2D 액션 로그라이크** <br>
 > **기간 2024.12 ~ 2025.02** <br>
 > **1인 프로젝트** <br>
