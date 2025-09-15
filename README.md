@@ -35,10 +35,10 @@
 
 ### Growing Anchovy (완료)
 이미지
-> 2D 육성 시뮬레이션 <br>
-> 기간 2024.09 ~ 2024.11 <br>
-> 5인 프로젝트 중 게임 개발 파트 담당 (프론트엔드 2명, 백엔드 2명, 게임 개발 1명) <br>
-> Unity, Android Studio, Aseprite, Firebase <br>
+> **2D 육성 시뮬레이션** <br>
+> **기간 2024.09 ~ 2024.11** <br>
+> **5인 프로젝트 중 게임 개발 파트 담당** (프론트엔드 2명, 백엔드 2명, 게임 개발 1명) <br>
+> **Unity, Android Studio, Aseprite, Firebase** <br>
 
 * 앱 개발 중 게임 개발 파트를 담당했습니다.
 * Unity를 사용하여 Unity의 기초를 스스로 학습해보면서 처음으로 게임을 완성한 경험을 해보았던 프로젝트입니다.
@@ -49,27 +49,34 @@
 
 ### Human Survive (중단)
 이미지
-> 2D 액션 로그라이크
-> 기간 2024.12 ~ 2025.02 <br>
-> 1인 프로젝트 <br>
-> Unity, Aseprite <br>
+> **2D 액션 로그라이크**
+> **기간 2024.12 ~ 2025.02** <br>
+> **1인 프로젝트** <br>
+> **Unity, Aseprite** <br>
 
 * Unity 활용에 익숙해지기 위해 진행한 1인 프로젝트입니다.
 * 기본적인 2D 움직임, 충돌 처리, 오브젝트 풀링 등 여러가지를 연습하는 기회였습니다.
 * 기획의 부족함과 아트 및 사운드 부분에서 한계를 느껴 중단하였습니다.
 
+<details>
+  <summary>주요 코드 설명</summary>
+  <h2>제목</h2>
+  <p>내용</p>
+</details>
+
 [주소](https://github.com/jiholee1210/Human-Survive)
 
 ### Fisher Man (출시)
 이미지
-> 3D 낚시 시뮬레이션
-> 기간 2025.02 ~ 2025.04 <br>
-> 1인 프로젝트 <br>
-> Unity, Aseprite, Blender <br>
+> **3D 낚시 시뮬레이션**
+> **기간 2025.02 ~ 2025.04** <br>
+> **1인 프로젝트** <br>
+> **Unity, Aseprite, Blender** <br>
 
 * 처음으로 개발부터 출시까지 진행해본 프로젝트입니다.
 * 3D 모델링, 2D 아트, 프로그래밍의 과정을 혼자 진행해보면서 많은 것들을 공부하고 배웠습니다.
 * 3D 라이팅, 텍스처와 머터리얼에 대해 학습하고 최적화 과정을 진행해보면서 스스로에게 부족한 부분을 채워나갔습니다.
+* Localization 기능을 활용해 영어와 한국어 두 언어에 대응할 수 있도록 구현했습니다.
 
 <details>
   <summary>주요 코드 설명</summary>
@@ -78,16 +85,22 @@
 </details>
 
 [주소](https://github.com/jiholee1210/Fisher-Man)
+[출시](https://store.steampowered.com/app/3727150/Fisher_Man/)
 
 ### Reforge (진행 중)
 이미지
-> 2D 방치형 / 클리커
-> 기간 2025.07 ~ <br>
-> 1인 프로젝트 <br>
-> Unity, Aseprite <br>
+> **2D 방치형 / 클리커**
+> **기간 2025.07 ~** <br>
+> **1인 프로젝트** <br>
+> **Unity, Aseprite** <br>
 
-이전 프로젝트들에서 기획의 중요함을 느끼고 기획단계부터 세세하게 진행 중인 프로젝트
+* 이전 프로젝트들에서 기획의 중요함을 느끼고 기획단계부터 세세하게 진행 중인 프로젝트입니다.
+* 게임 장르가 방치형인만큼 게임 흐름에 집중하며 로직을 구성하기 위해 노력 중입니다.
+
+<details>
+  <summary>주요 코드 설명</summary>
+  <h2>제목</h2>
+  <p>내용</p>
+</details>
 
 [주소](https://github.com/jiholee1210/ReForge)
-
-## 영상?
