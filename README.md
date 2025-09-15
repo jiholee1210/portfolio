@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-## 세부사항 및 코드 (문제점 및 해결) 사용 에셋, 사용 사운드 출처
+## 프로젝트
 
 ### Growing Anchovy (완료)
 <img src="https://github.com/user-attachments/assets/dad9ba94-feba-4e77-9d16-e3f5f6724883" style="width:216px; height:384px; object-fit:cover;">
@@ -65,8 +65,10 @@
 
 <details>
   <summary>주요 코드 설명</summary>
-  <h2>제목</h2>
-  <p>내용</p>
+  <img>
+  <h3>오브젝트 풀링</h3>
+  <p>오브젝트 풀링 매니저 클래스를 작성해서 무기 투사체 및 많은 수의 적 오브젝트의 추가 및 삭제를 메모리 측면에서 효율적으로 관리했습니다.</p>
+  <p>Dictionary 형태로 pool을 관리하면서 여러 오브젝트에 대응할 수 있도록 작성했습니다.</p>
 </details>
 
 [주소](https://github.com/jiholee1210/Human-Survive)
@@ -86,12 +88,6 @@
 * 3D 라이팅, 텍스처와 머터리얼에 대해 학습하고 최적화 과정을 진행해보면서 스스로에게 부족한 부분을 채워나갔습니다.
 * Localization 기능을 활용해 영어와 한국어 두 언어에 대응할 수 있도록 구현했습니다.
 
-<details>
-  <summary>주요 코드 설명</summary>
-  <h2>제목</h2>
-  <p>내용</p>
-</details>
-
 [주소](https://github.com/jiholee1210/Fisher-Man)
 [출시](https://store.steampowered.com/app/3727150/Fisher_Man/)
 <hr>
@@ -108,14 +104,9 @@
 * 이전 프로젝트들에서 기획의 중요함을 느끼고 기획단계부터 세세하게 진행 중인 프로젝트입니다.
 * 게임 장르가 방치형인만큼 게임 흐름에 집중하며 로직을 구성하기 위해 노력 중입니다.
 
-<details>
-  <summary>주요 코드 설명</summary>
-  <h2>제목</h2>
-  <p>내용</p>
-</details>
-
 [주소](https://github.com/jiholee1210/ReForge)
 <hr>
 
-### Contact
+## Contact
 * Email : jiholee1210@gmail.com
+* Github : https://github.com/jiholee1210
