@@ -35,7 +35,7 @@
 
 ### Growing Anchovy (완료)
 <img src="https://github.com/user-attachments/assets/dad9ba94-feba-4e77-9d16-e3f5f6724883" style="width:20%; height:20%; object-fit:cover;">
-<img src="https://github.com/user-attachments/assets/0ce63e19-1bc0-4bf9-9f79-80dc8b016f89" width="20%" height="20%">
+<img src="https://github.com/user-attachments/assets/0ce63e19-1bc0-4bf9-9f79-80dc8b016f89" style="width:20%; height:20%; object-fit:cover;">
 
 > **2D 육성 시뮬레이션** <br>
 > **기간 2024.09 ~ 2024.11** <br>
