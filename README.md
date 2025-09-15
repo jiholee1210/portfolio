@@ -115,3 +115,7 @@
 </details>
 
 [주소](https://github.com/jiholee1210/ReForge)
+<hr>
+
+### Contact
+* Email : jiholee1210@gmail.com
