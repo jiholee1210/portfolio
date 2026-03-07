@@ -92,19 +92,19 @@
 출시 주소 : https://store.steampowered.com/app/3727150/Fisher_Man/
 <hr>
 
-### Reforge (진행 중)
+### MineFarm (진행 중)
 <img src="https://github.com/user-attachments/assets/9c13bd9d-02f4-49e4-b218-5a6f8667b9e2" style="width:384px; height:216px; object-fit:cover;">
 <img src="https://github.com/user-attachments/assets/d137d412-932e-4555-962f-b4fee0b84346" style="width:384px; height:216px; object-fit:cover;">
 
-> **2D 방치형 / 클리커** <br>
-> **기간 2025.07 ~ 진행 중** <br>
+> **2D 롤플레잉** <br>
+> **기간 2025.12 ~ 진행 중** <br>
 > **1인 프로젝트** <br>
-> **Unity, Aseprite** <br>
+> **Unity, Aseprite, Clip Studio** <br>
 
 * 이전 프로젝트들에서 기획의 중요함을 느끼고 기획단계부터 세세하게 진행 중인 프로젝트입니다.
 * 게임 장르가 방치형인만큼 게임 흐름에 집중하며 로직을 구성하기 위해 노력 중입니다.
 
-프로젝트 주소 : https://github.com/jiholee1210/ReForge
+프로젝트 주소 : https://github.com/jiholee1210/MineFarm
 <hr>
 
 ## Contact
