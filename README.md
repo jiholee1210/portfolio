@@ -40,7 +40,7 @@
     </td>
     <td align="center" style="border:none; padding:15px; width:100%;">
       <a href="#-fisher-man-출시-완료">
-        <img src="https://github.com/user-attachments/assets/67fbe738-cfdd-43e0-a469-c11c0eb9e5b5" width="200px" height="200px" style="border-radius:12px;">
+        <img src="https://github.com/user-attachments/assets/1688b8ec-a8fe-4ca1-824b-f43b312c9ebb" width="200px" height="200px" style="border-radius:12px;">
       </a>
       <br>
       <h3 style="margin-bottom: 5px; margin-top: 5px;">🎣 Fisher Man</h3>
