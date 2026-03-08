@@ -57,7 +57,7 @@
       <p style="font-size: 14px; color: #888;">2D 방치형 클리커</p>
     </td>
     <td align="center" style="border:none; padding:15px; width:100%;">
-      <a href="#-minefarm-진행-중">
+      <a href="#mine-farm">
         <img src="https://github.com/user-attachments/assets/a95cc93f-00d9-4330-9aab-0e164a8a9eab" width="200px" height="200px" style="border-radius:12px;">
       </a>
       <br>
@@ -145,6 +145,7 @@
 
 <hr>
 
+<a id="mine-farm"></a>
 ### ⛏️ MineFarm (진행 중)
 > **2D 방치형 롤플레잉** | `2025.12 ~ 진행 중` <br>
 > **Role:** 1인 프로젝트 <br>
