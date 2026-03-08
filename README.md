@@ -31,22 +31,25 @@
       <p style="font-size: 14px; color: #888;">2D 육성 시뮬레이션 (팀 프로젝트)</p>
     </td>
     <td align="center" style="border:none; padding:15px; width:100%;">
-        <img src="https://github.com/user-attachments/assets/67fbe738-cfdd-43e0-a469-c11c0eb9e5b5" width="200px" height="200px" style="border-radius:12px;">
-      </a>
-      <br>
-      <h3 style="margin-bottom: 5px; margin-top: 5px;">🎣 Fisher Man</h3>
-      <p style="font-size: 14px; color: #888;">3D 낚시 시뮬레이션 (출시)</p>
-    </td>
-    <td align="center" style="border:none; padding:15px; width:100%;">
+      <a href="#-human-survive-중단">
         <img src="https://github.com/user-attachments/assets/9d199e26-8276-4710-8710-f3228e0e99bf" width="200px" height="200px" style="border-radius:12px;">
       </a>
       <br>
       <h3 style="margin-bottom: 5px; margin-top: 5px;">⚔️ Human Survive</h3>
       <p style="font-size: 14px; color: #888;">2D 액션 로그라이크</p>
     </td>
+    <td align="center" style="border:none; padding:15px; width:100%;">
+      <a href="#-fisher-man-출시-완료">
+        <img src="https://github.com/user-attachments/assets/67fbe738-cfdd-43e0-a469-c11c0eb9e5b5" width="200px" height="200px" style="border-radius:12px;">
+      </a>
+      <br>
+      <h3 style="margin-bottom: 5px; margin-top: 5px;">🎣 Fisher Man</h3>
+      <p style="font-size: 14px; color: #888;">3D 낚시 시뮬레이션 (출시)</p>
+    </td>
   </tr>
   <tr>
     <td align="center" style="border:none; padding:15px; width:100%;">
+      <a href="#-reforge-중단">
         <img src="https://github.com/user-attachments/assets/c69e24ee-6751-4058-a332-e9b02b596360" width="200px" height="200px" style="border-radius:12px;">
       </a>
       <br>
