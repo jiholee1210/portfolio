@@ -58,7 +58,7 @@
     </td>
     <td align="center" style="border:none; padding:15px; width:100%;">
       <a href="#-minefarm-진행-중">
-        <img src="[여기에_가로형_스크린샷_또는_GIF_링크_삽입]" width="200px" height="200px" style="border-radius:12px;">
+        <img src="https://github.com/user-attachments/assets/a95cc93f-00d9-4330-9aab-0e164a8a9eab" width="200px" height="200px" style="border-radius:12px;">
       </a>
       <br>
       <h3 style="margin-bottom: 5px; margin-top: 5px;">⛏️ MineFarm</h3>
@@ -152,8 +152,8 @@
 > 🔗 [GitHub Repository](https://github.com/jiholee1210/MineFarm)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9c13bd9d-02f4-49e4-b218-5a6f8667b9e2" style="width:384px; height:216px; object-fit:cover;">
-  <img src="https://github.com/user-attachments/assets/d137d412-932e-4555-962f-b4fee0b84346" style="width:384px; height:216px; object-fit:cover;">
+  <img src="https://github.com/user-attachments/assets/429f47fa-d925-498f-b633-12beb12d93ae" style="width:384px; height:216px; object-fit:cover;">
+  <img src="https://github.com/user-attachments/assets/a7b30b6c-bbd7-4b6d-8bc3-93a8d051d11d" style="width:384px; height:216px; object-fit:cover;">
 </div>
 
 * **체계적인 기획 & 로직 설계:** 이전 프로젝트들의 경험을 바탕으로, 초기 기획 단계부터 세밀하게 구조를 잡고 무엇보다 재미 요소에 중점을 두고 개발을 시작했습니다.
