@@ -31,7 +31,7 @@
       <p style="font-size: 14px; color: #888;">2D 육성 시뮬레이션 (팀 프로젝트)</p>
     </td>
     <td align="center" style="border:none; padding:15px; width:100%;">
-      <a href="human-survive">
+      <a href="#human-survive">
         <img src="https://github.com/user-attachments/assets/9d199e26-8276-4710-8710-f3228e0e99bf" width="200px" height="200px" style="border-radius:12px;">
       </a>
       <br>
