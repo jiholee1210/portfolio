@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 플레이어의 관점에서 '진짜 재미있는' 게임이 무엇인지 끊임없이 고민하는 게임 개발자입니다.
-2D 픽셀 아트(도트) 특유의 감성을 살리는 것을 좋아하며, 시각적인 완성도와 더불어 렌더링 최적화 등 기술적인 구현을 함께 고려하며 개발하는 것에 관심이 많습니다. 많은 사람들이 플레이하고 "정말 재밌었다"고 말할 수 있는 게임을 만드는 것이 제 궁극적인 목표입니다.
+시각적인 완성도와 더불어 렌더링 최적화 등 기술적인 구현을 함께 고려하며 개발하는 것에 관심이 많습니다. 많은 사람들이 플레이하고 "정말 재밌었다"고 말할 수 있는 게임을 만드는 것이 제 궁극적인 목표입니다.
 
 ## 🛠️ Skills
 * **Engine:** Unity
@@ -22,48 +22,43 @@
 
 <table align="center" style="border-collapse:collapse; border:none; width:100%;">
   <tr>
-    <td align="center" style="border:none; padding:15px; width:50%;">
+    <td align="center" style="border:none; padding:15px; width:100%;">
       <a href="#-growing-anchovy-완료">
-        <img src="[여기에_가로형_스크린샷_또는_GIF_링크_삽입]" width="100%" style="border-radius:12px;">
+        <img src="https://github.com/user-attachments/assets/a9fe422c-db23-4b74-853e-2bbc625b1036" width="200px" height="200px" style="border-radius:12px;">
       </a>
       <br>
-      <h3 style="margin-bottom: 5px; margin-top: 10px;">🐟 Growing Anchovy</h3>
+      <h3 style="margin-bottom: 5px; margin-top: 5px;">🐟 Growing Anchovy</h3>
       <p style="font-size: 14px; color: #888;">2D 육성 시뮬레이션 (팀 프로젝트)</p>
     </td>
-    <td align="center" style="border:none; padding:15px; width:50%;">
-      <a href="#-fisher-man-출시-완료">
-        <img src="[여기에_가로형_스크린샷_또는_GIF_링크_삽입]" width="100%" style="border-radius:12px;">
+    <td align="center" style="border:none; padding:15px; width:100%;">
+        <img src="https://github.com/user-attachments/assets/67fbe738-cfdd-43e0-a469-c11c0eb9e5b5" width="200px" height="200px" style="border-radius:12px;">
       </a>
       <br>
-      <h3 style="margin-bottom: 5px; margin-top: 10px;">🎣 Fisher Man</h3>
-      <p style="font-size: 14px; color: #888;">3D 낚시 시뮬레이션 (Steam 출시)</p>
+      <h3 style="margin-bottom: 5px; margin-top: 5px;">🎣 Fisher Man</h3>
+      <p style="font-size: 14px; color: #888;">3D 낚시 시뮬레이션 (출시)</p>
     </td>
-  </tr>
-  <tr>
-    <td align="center" style="border:none; padding:15px; width:50%;">
-      <a href="#-human-survive-중단">
-        <img src="[여기에_가로형_스크린샷_또는_GIF_링크_삽입]" width="100%" style="border-radius:12px;">
+    <td align="center" style="border:none; padding:15px; width:100%;">
+        <img src="https://github.com/user-attachments/assets/9d199e26-8276-4710-8710-f3228e0e99bf" width="200px" height="200px" style="border-radius:12px;">
       </a>
       <br>
-      <h3 style="margin-bottom: 5px; margin-top: 10px;">⚔️ Human Survive</h3>
+      <h3 style="margin-bottom: 5px; margin-top: 5px;">⚔️ Human Survive</h3>
       <p style="font-size: 14px; color: #888;">2D 액션 로그라이크</p>
     </td>
-    <td align="center" style="border:none; padding:15px; width:50%;">
-      <a href="#-reforge-중단">
-        <img src="[여기에_가로형_스크린샷_또는_GIF_링크_삽입]" width="100%" style="border-radius:12px;">
-      </a>
-      <br>
-      <h3 style="margin-bottom: 5px; margin-top: 10px;">🔨 ReForge</h3>
-      <p style="font-size: 14px; color: #888;">2D 방치형 클리커</p>
-    </td>
   </tr>
   <tr>
-    <td align="center" style="border:none; padding:15px; width:50%;">
-      <a href="#-minefarm-진행-중">
-        <img src="[여기에_가로형_스크린샷_또는_GIF_링크_삽입]" width="100%" style="border-radius:12px;">
+    <td align="center" style="border:none; padding:15px; width:100%;">
+        <img src="https://github.com/user-attachments/assets/c69e24ee-6751-4058-a332-e9b02b596360" width="200px" height="200px" style="border-radius:12px;">
       </a>
       <br>
-      <h3 style="margin-bottom: 5px; margin-top: 10px;">⛏️ MineFarm</h3>
+      <h3 style="margin-bottom: 5px; margin-top: 5px;">🔨 ReForge</h3>
+      <p style="font-size: 14px; color: #888;">2D 방치형 클리커</p>
+    </td>
+    <td align="center" style="border:none; padding:15px; width:100%;">
+      <a href="#-minefarm-진행-중">
+        <img src="[여기에_가로형_스크린샷_또는_GIF_링크_삽입]" width="200px" height="200px" style="border-radius:12px;">
+      </a>
+      <br>
+      <h3 style="margin-bottom: 5px; margin-top: 5px;">⛏️ MineFarm</h3>
       <p style="font-size: 14px; color: #888;">2D 방치형 롤플레잉 (진행 중)</p>
     </td>
     <td align="center" style="border:none; padding:15px; width:50%;">
@@ -157,6 +152,6 @@
   <img src="https://github.com/user-attachments/assets/d137d412-932e-4555-962f-b4fee0b84346" style="width:384px; height:216px; object-fit:cover;">
 </div>
 
-* **체계적인 기획 & 로직 설계:** 이전 프로젝트들의 경험을 바탕으로, 초기 기획 단계부터 세밀하게 구조를 잡고 방치형 게임 특유의 코어 루프와 로직 구성에 집중하고 있습니다.
+* **체계적인 기획 & 로직 설계:** 이전 프로젝트들의 경험을 바탕으로, 초기 기획 단계부터 세밀하게 구조를 잡고 무엇보다 재미 요소에 중점을 두고 개발을 시작했습니다.
 * **디테일한 시각 효과 구현:** 광물 채집 시 도트 파티클이 튀어오르는 커스텀 이펙트를 구현하고, 아이템 등급에 따라 테두리에 빛무리가 일렁이는 셰이더 효과(Sun-halo effect)를 적용하여 시각적 만족도를 높였습니다.
 * **렌더링 트러블슈팅:** 커스텀 셰이더 적용 시 발생한 알파 블렌딩 오류를 분석 및 수정하여, 1픽셀 단위의 디테일을 살리는 픽셀 퍼펙트(Pixel-perfect) 렌더링을 구현했습니다.
